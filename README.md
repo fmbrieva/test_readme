@@ -8,7 +8,7 @@ Los resultados se graban en un archivo bulk ```JSON``` (puede ser consultado fá
 
   <img src="imagenes/Ejemplo_Json.png" >
   
-se crean ficheros CSV con el inventario de:
+y se crean ficheros CSV con el inventario de:
 
 - Switches
 - Enlaces
