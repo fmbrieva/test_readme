@@ -47,7 +47,7 @@ graph TD;
     Equipos_a_inventariar-->Red_CIDR(1. Red - CIDR);
     Equipos_a_inventariar-->Fichero_IP(2. Fichero con IPs);
     Equipos_a_inventariar-->Introducir_IP(3. IPs manualmente);
-    Red_CIDR-->Actualizar_OUI(¿Actualizar tabla OUI?);
+    Red_CIDR-->Actualizar_OUI(Actualizar tabla OUI);
     Fichero_IP-->Actualizar_OUI;
     Introducir_IP-->Actualizar_OUI;
     Actualizar_OUI--> Thread_Inventariar_Activos(Thread para inventariar activos de red);
