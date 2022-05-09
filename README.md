@@ -140,7 +140,7 @@ optional arguments:
 
  Parches y nuevas funciones
 
-| Driver | Notas | Tipo |
+| Driver | Detalle | Acción |
 | --- | --- | --- |
 | [**napalm-hp-procurve**](https://github.com/fmbrieva/napalm-hp-procurve/commits/master) | Stacking | Patch |
 | [**napalm-hp-procurve**](https://github.com/fmbrieva/napalm-hp-procurve/commits/master) | ChassisId truncated | Bug |
