@@ -38,9 +38,9 @@ pueden almacenarse en ficheros Vault ([**Ansible Vault**](https://github.com/ans
 
 ```mermaid
 graph TD;
-    Red_a_inventariar-->Credenciales;
-    Credenciales-->Credenciales_Fichero_Vault;
-    Credenciales-->Credenciales_Manualmente;
+    Red(Red a inventariar)-->Credenciales;
+    Credenciales-->Credenciales_Fichero_Vault(Credenciales fichero VAULT);
+    Credenciales-->Credenciales_Manualmente(Introducir credenciales manualmente);
     Credenciales_Fichero_Vault-->Equipos_a_inventariar;
     Credenciales_Manualmente-->Equipos_a_inventariar;
     Credenciales_Manualmente-->Crear_Vault_Con_Credenciales;
