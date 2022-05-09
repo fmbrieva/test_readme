@@ -18,6 +18,8 @@ se crean ficheros CSV con el inventario de:
 - Módulos
 - Transceivers
 
+Si la conexión con el dispositivo se realiza mediante SSH (NAPALM) se generan ficheros con la configuración ( ```startup``` / ```running``` ) del dispositivo.
+
 ## Credenciales
 
 Las credenciales de acceso
