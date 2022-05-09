@@ -4,7 +4,7 @@ Script ```Python``` para automatizar el inventario de dispositivos de red median
 
 (Script en fase de pruebas finales, pendiente de publicación)
 
-Los resultados se graban en un archivo bulk ```JSON``` (puede ser consultado facilmente desde ```Notepad++``` con el plugin ```JSON Viewer```)
+Los resultados se graban en un archivo bulk ```JSON``` (puede ser consultado fácilmente desde ```Notepad++``` con el plugin ```JSON Viewer```)
 
   <img src="imagenes/Ejemplo_Json.png" >
   
