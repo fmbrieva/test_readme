@@ -22,7 +22,7 @@ Si la conexión con el dispositivo se realiza mediante SSH (NAPALM) se generan f
 
 ## Credenciales
 
-Las credenciales de acceso
+Las credenciales de acceso pueden ser:
 
 * SSH (```usuario``` ```password```)
 * SNMP V1 (```comunidad```)
