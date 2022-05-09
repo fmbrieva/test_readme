@@ -50,7 +50,7 @@ graph TD;
     Red_CIDR-->Actualizar_OUI;
     Fichero_IP-->Actualizar_OUI;
     Introducir_IP-->Actualizar_OUI;
-    Actualizar_OUI--> Thread_Inventariar_Activos;
+    Actualizar_OUI--> Thread_Inventariar_Activos(Inventarriar ararar);
     Thread_Inventariar_Activos-->Resultados_Bulk;
     Thread_Inventariar_Activos-->Resultados_CSV;
     Thread_Inventariar_Activos-->Backup_Dispositivo_SSH;
